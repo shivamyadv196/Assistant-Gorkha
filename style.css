@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    gap: 22px;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(44, 37, 37);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+#logo{
+    width: 400px;
+    height: 550px;
+}
+
+h1{
+    color: rgb(2, 39, 39);
+    font-family: "Roboto Slab", serif;
+    position: relative;
+    bottom: 70px;
+    background-color: aliceblue;
+}
+#name{
+    color:rgb(248, 113, 140);
+    font-size: 45px;
+}
+#va{
+    color: rgb(86, 188, 188);
+    font-size: 45px;
+}
+#voice{
+    width: 200px;
+
+}
+#btu{
+    width: 30%;
+    background: linear-gradient(to right,rgb(71, 213, 220),rgb(130, 56, 233));
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    font-size: 20px;
+    border-radius: 20px;
+    color: white;
+    border: none;
+    box-shadow: 2px 2px 10px rgb(71, 213, 220), 2px 2px 10px rgb(130, 56, 233);
+    transition: all 0.5s;
+    cursor: pointer;
+
+}
+#btu:hover{
+    box-shadow: 2px 2px 20px rgb(71, 213, 220), 2px 2px 20px rgb(130, 56, 233);
+    letter-spacing: 2px;
+}
+#btu:active{
+    box-shadow: 2px 2px 20px rgb(252, 252, 252), 2px 2px 20px rgb(255, 255, 255);
+}
