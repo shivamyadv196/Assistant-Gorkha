@@ -1,4 +1,4 @@
- <h2># Assistant-Gorkha</h2>h2>
+ <h2> Assistant-Gorkha</h2>
 A smart, web-based Virtual Voice Assistant built using HTML, CSS, and JavaScript, designed to perform actions using simple voice commands. It can instantly open platforms like YouTube, Instagram, WhatsApp, LinkedIn, and many more through predefined links. It also performs Google search queries based on user voice input, making browsing faster and more interactive.
 <h3>📝 Overview</h3>
 This project demonstrates the power of browser-based voice recognition using JavaScript and Web APIs. It provides a smooth, responsive, and beginner-friendly experience while showcasing practical implementation of voice command functionalities.
