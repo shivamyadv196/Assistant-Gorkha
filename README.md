@@ -31,5 +31,10 @@ This project demonstrates the power of browser-based voice recognition using Jav
 <h3>🤝 Contributions</h3>
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to improve.
 <h3>⭐ Support</h3>
-If you like this project, don’t forget to ⭐ the repository 🙂
+If you like this project, don’t forget to ⭐ the repository 🙂<br><br><br><br><br>
+
+<img width="1333" height="873" alt="image" src="https://github.com/user-attachments/assets/36399531-d29a-460a-9df0-03399e60d0a3" />
+
+
+
 
